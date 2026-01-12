@@ -1,0 +1,2 @@
+# Universal-Template
+该项目为通用前端模板，可以该项目为基础，做一些定制项目的前端垂类延申，sophon的soc平台BM1688/CV186X平台以及Sigmastar的SSC377DE平台均可完美运行该项目。
