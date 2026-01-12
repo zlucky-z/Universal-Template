@@ -1,0 +1,18 @@
+{
+    "AlarmCooldownTime": 10,
+    "CheckVideoUpload": true,
+    "EnableAlarmNotification": true,
+    "EnableVideoRecord": false,
+    "ExamineMode": "不审核",
+    "MaxRecordDuration": 60,
+    "ModelThread": 4,
+    "Mp4RecorderEngine": "MP4V2",
+    "PolicyAbandon": -1,
+    "QualityOfPreview": 1,
+    "RecordKeepAlarmInfo": 1000,
+    "RecordWithAudio": false,
+    "RemoteInfo": "http://192.168.1.175:7550/receive",
+    "SizeKeepDiskAvailable": 100,
+    "WebServicePort": 8088,
+    "WebSocketSvr": ""
+}

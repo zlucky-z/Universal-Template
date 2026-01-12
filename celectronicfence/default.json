@@ -1,0 +1,14 @@
+{
+    "current": {
+        "defaultRtspStreamUrl": "rtsp://admin:1234qwer@192.168.1.64:554/mdeia/video1",
+        "defaultRtspStreamUrl2": "rtsp://admin:1234qwer@192.168.1.64:554/mdeia/video1",
+        "defaultSaveLocation": "/mnt/tfcard/videos1",
+        "defaultSaveLocation2": "/mnt/tfcard/videos2"
+    },
+    "initial": {
+        "defaultRtspStreamUrl": "rtsp://admin:1234qwer@192.168.1.64:554/mdeia/video1",
+        "defaultRtspStreamUrl2": "rtsp://admin:1234qwer@192.168.1.64:554/mdeia/video1",
+        "defaultSaveLocation": "/mnt/tfcard/videos1",
+        "defaultSaveLocation2": "/mnt/tfcard/videos2"
+    }
+}

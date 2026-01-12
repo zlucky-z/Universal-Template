@@ -1,0 +1,13 @@
+{
+    "channels": [
+        {
+            "channelAssignment": "1",
+            "description": "后门监控",
+            "gb28181": "",
+            "id": 1,
+            "name": "ipc206",
+            "status": "inactive",
+            "url": "rtsp://192.168.1.206:554/media/video1"
+        }
+    ]
+}
