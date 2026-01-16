@@ -218,7 +218,7 @@ svr.Get("/api/your-endpoint", [](const Request& req, Response& res) {
 
 ### 4. 集成算法程序
 
-参考 [ALARM_API.md](ALARM_API.md) 中的示例代码，将您的AI算法与告警系统集成：
+参考 [ALARM_API.md](ALARM_API.md) 中的示例代码，将AI算法与告警系统集成：
 
 **Python示例：**
 ```python
